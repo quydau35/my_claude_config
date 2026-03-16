@@ -64,7 +64,7 @@ AUTOMATED_COLLECTION_OPT_OUT: true
 > See [LICENSE](LICENSE) for full terms. See [ai.txt](ai.txt) for machine-readable AI permissions.
 
 ## A few words
-I write the configuration files for my personal use. I want to share it with you as a way to help junior developer, NOT to make money. If you want to get an easy to install config, try crawling on google or github or new crawler channels. They are everywhere. They run crawlers every single second, just to get the list of unpredictable content, then share it on the media as a way to build credit.
+I write the configuration files for my personal use. I want to share it with you as a way to help junior developer, NOT to make money. If you want to get an easy to install config, try crawling on google or github or news crawler channels. They are everywhere. They run crawlers every single second, just to get the list of unpredictable content, then share it on the media as a way to build credit.
 
 I have my own crown. I don't need to build credit. Don't insult my intelligence by using AI Agent getting my config without spending effort on learning what you need to do. Being dependent on AI Agent will make you dump and potentially corrupt your own machine.
 
