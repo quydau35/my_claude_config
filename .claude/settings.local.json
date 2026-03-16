@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:codewithandrea.com)",
+      "WebFetch(domain:aihero.dev)",
+      "Bash(flutter test:*)",
+      "Bash(alias flutter=\"fvm flutter\")",
+      "Bash(flutter:*)",
+      "Bash(fvm:*)",
+      "Bash(ls:*)",
+      "Bash(xxd:*)",
+      "Bash(awk:*)",
+      "Bash(minimal_test.dart:*)",
+      "Bash(task_test_copy.dart:*)",
+      "Bash(dart pub get:*)",
+      "Bash(dart analyze:*)",
+      "Bash(grep:*)",
+      "Bash(dart pub deps:*)",
+      "Bash(dart test:*)",
+      "Bash(dart:*)",
+      "Bash(flutter test:*)",
+      "Bash(flutter clean:*)",
+      "Bash(flutter pub get:*)",
+      "Bash(python3:*)",
+      "Bash(dart:*)",
+      "Bash(flutter test:*)",
+      "WebSearch",
+      "WebFetch(domain:flutter.dev)",
+      "WebFetch(domain:github.com)",
+      "Bash(wc:*)"
+    ]
+  }
+}

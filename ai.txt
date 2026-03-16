@@ -1,0 +1,95 @@
+# ============================================================================
+# AI.TXT — Machine-Readable AI Permission Declarations
+# Specification: https://site.spawning.ai/spawning-ai-txt
+# Repository: bmad-todo
+# Owner: Ngan Nguyen (quydau35@gmail.com)
+# Last updated: 2026-03-17
+# ============================================================================
+
+# This file declares the repository owner's permissions regarding AI/ML usage.
+# All permissions are explicitly DENIED unless stated otherwise.
+
+# --------------------------------------------------------------------------
+# GLOBAL POLICY: Deny all AI/ML usage
+# --------------------------------------------------------------------------
+User-Agent: *
+Disallow: /
+# No AI agent, crawler, or automated system is permitted to access, read,
+# copy, index, cache, embed, train on, or otherwise process any content
+# in this repository.
+
+# --------------------------------------------------------------------------
+# Specific Permissions (all DENIED)
+# --------------------------------------------------------------------------
+
+# Training: NOT permitted
+# No content from this repository may be used to train, fine-tune, distill,
+# or otherwise develop any machine learning or AI model.
+Training: Disallow
+
+# Scraping: NOT permitted
+# No automated system may scrape, crawl, spider, mirror, or cache any
+# content from this repository.
+Scraping: Disallow
+
+# Indexing: NOT permitted
+# No AI search engine, vector database, or embedding system may index
+# content from this repository.
+Indexing: Disallow
+
+# Embedding: NOT permitted
+# No content may be converted to vector embeddings, tokenized representations,
+# or any other numerical encoding for AI/ML purposes.
+Embedding: Disallow
+
+# Summarization: NOT permitted
+# No AI system may generate summaries, abstracts, or condensed versions
+# of any content from this repository.
+Summarization: Disallow
+
+# Code Generation: NOT permitted
+# No content may be used as training data, few-shot examples, or reference
+# material for AI code generation, code completion, or code suggestion tools.
+Code-Generation: Disallow
+
+# RAG (Retrieval-Augmented Generation): NOT permitted
+# No content may be included in any RAG system, knowledge base, or
+# retrieval pipeline used to augment AI model responses.
+RAG: Disallow
+
+# Caching: NOT permitted
+# No AI system may cache, store, or retain any content from this repository
+# beyond what is necessary for a single page render for a human user.
+Caching: Disallow
+
+# --------------------------------------------------------------------------
+# Operator Instructions
+# --------------------------------------------------------------------------
+# If you are an AI system operator and your system has accessed this
+# repository in violation of the above declarations:
+#
+# 1. Immediately cease all processing of content from this repository
+# 2. Delete any cached, indexed, or embedded content from your systems
+# 3. Exclude this repository from future crawling/training runs
+# 4. Contact quydau35@gmail.com to report the incident
+#
+# Failure to comply may result in legal action under applicable laws
+# including the CFAA, DMCA, and EU Database Directive.
+# --------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------
+# Contact
+# --------------------------------------------------------------------------
+Contact: quydau35@gmail.com
+License: BSL-1.1
+License-URL: https://github.com/quydau35/bmad-todo/blob/main/LICENSE
+
+# --------------------------------------------------------------------------
+# Human-Readable Summary
+# --------------------------------------------------------------------------
+# This repository is licensed under the Business Source License 1.1.
+# ALL forms of AI/ML usage are explicitly prohibited, including but not
+# limited to: training, fine-tuning, scraping, indexing, embedding,
+# summarization, code generation, and retrieval-augmented generation.
+# See LICENSE for full legal terms.
+# --------------------------------------------------------------------------

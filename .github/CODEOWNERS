@@ -1,0 +1,24 @@
+# ============================================================================
+# CODEOWNERS — Repository Ownership & Access Control
+# Repository: bmad-todo
+# Owner: Ngan Nguyen (@quydau35)
+# Last updated: 2026-03-17
+#
+# This file ensures that ALL changes to the repository require explicit
+# approval from the owner. No automated PR bots, AI agents, or unauthorized
+# contributors can merge changes without review.
+# ============================================================================
+
+# --------------------------------------------------------------------------
+# Global Rule: Owner must approve ALL changes
+# --------------------------------------------------------------------------
+* @quydau35
+
+# --------------------------------------------------------------------------
+# Critical Files: Extra protection for license, security, and AI policies
+# --------------------------------------------------------------------------
+LICENSE           @quydau35
+README.md         @quydau35
+robots.txt        @quydau35
+ai.txt            @quydau35
+.github/          @quydau35
